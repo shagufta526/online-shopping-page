@@ -1,0 +1,13 @@
+DESCRIPTION:
+                      the website is related to a short view of online stores available for shopping,it consists of most essential needs as groceries to the tech uses.
+                      Website is created by use of html,css advance .It supports dropdown effective queries,and gallery of images,n links.use of
+                     slideshows n animations too.
+technology:
+                      used sublime text editor,fontawesom for icons n fonts.
+name:
+         SHAGUFTA
+BRANCH:
+              ECE
+      YEAR:1ST YEAR B.TECH
+CONTACT NO:
+                    7992115295
